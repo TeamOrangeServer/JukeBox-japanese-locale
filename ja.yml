@@ -1,0 +1,33 @@
+NEXT_PAGE: §b次のページへ
+LATER_PAGE: §b前のページ
+PLAYER: §cYou must be a player to do this command.
+RELOAD_MUSIC: §aconfigをreloadしました
+INV_NAME: §d§lMUSIC BOX
+TOGGLE_PLAYING: §6一時停止/再生
+VOLUME: '§9音量 : §b'
+RIGHT_CLICK: '§e右クリック: 10%増加'
+LEFT_CLICK: '§e左クリック: 10%増加'
+RANDOM_MUSIC: §3ランダム
+STOP: §c音楽を止める
+MUSIC_STOPPED: §a音楽を停止しました
+ENABLE: 有効
+DISABLE: 無効
+SHUFFLE_MODE: シャッフルモード
+CONNEXION_MUSIC: 接続時の音楽
+PARTICLES: パーティクル
+MUSIC_PLAYING: '§a演奏中の音楽:'
+INCORRECT_SYNTAX: §c構文が正しくありません
+RELOAD_LAUNCH: §areloadを開始しました
+RELOAD_FINISH: §areloadが終了しました
+AVAILABLE_COMMANDS: '§a利用可能なコマンド:'
+INVALID_NUMBER: §c無効な番号
+PLAYER_MUSIC_STOPPED: '§aプレイヤーの音楽が停止しました: §b'
+IN_PLAYLIST: §9§oプレイリスト内
+PLAYLIST_ITEM: §dプレイリスト
+OPTIONS_ITEM: §bオプション
+MENU_ITEM: §6メニューに戻る
+CLEAR_PLAYLIST: §cプレイリストを空にする
+NEXT_ITEM: §e次の音楽に変える
+CHANGE_PLAYLIST: '§6§lプレイリストを切り替える: §r'
+PLAYLIST: §5プレイリスト
+FAVORITES: §4お気に入り
